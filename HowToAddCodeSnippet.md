@@ -17,7 +17,7 @@
         <type>entity-picker</type>
         <tooltip-key>entity-picker</tooltip-key>
         <arguments>
-            <entity-type>User</entity-type>
+          <entity-type>User</entity-type>
         </arguments>
         <result>user</result>
       </selection>
