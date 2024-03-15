@@ -35,7 +35,8 @@
     ]]></code>
   </code-snippet>
   ```
-- in the ThingWorx installation folder open the file ```..\Thingworx\Composer\node_modules\thingworx-ui-platform\dist\resources\locales\en\platform-details-translation.json```
+- in the ThingWorx installation folder open the file
+  ```..\Thingworx\Composer\node_modules\thingworx-ui-platform\dist\resources\locales\en\platform-details-translation.json```
   - find the node tw.code-snippets.tooltips and add the node
   ```JSON
   "snippet-run-as": "Run a piece of code as another user"
