@@ -1,6 +1,11 @@
 # How to Add code snippet
-- in the ThingWorx installation folder open the file ```..\Thingworx\Composer\node_modules\thingworx-ui-platform\dist\features\details\service-management\code-snippets\code-snippets.xml```
-  - before the last line </code-snippets> add the following text:
+- in the ThingWorx installation folder open the file
+  ```..\Thingworx\Composer\node_modules\thingworx-ui-platform\dist\features\details\service-management\code-snippets\code-snippets.xml```
+  - before the last line
+  ```XML
+  </code-snippets>
+  ```
+  add the following text:
   ```XML
 	<code-snippet>
     <name>Run As</name>
