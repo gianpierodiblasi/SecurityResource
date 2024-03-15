@@ -7,12 +7,12 @@
   ```
   add the following text:
   ```XML
-	<code-snippet>
+  <code-snippet>
     <name>Run As</name>
     <description-key>tw.static-code-snippets.run-as.description</description-key>
     <tooltip-key>snippet-run-as</tooltip-key>
     <category>Security</category>
-		<selections>
+    <selections>
       <selection>
         <type>entity-picker</type>
         <tooltip-key>entity-picker</tooltip-key>
