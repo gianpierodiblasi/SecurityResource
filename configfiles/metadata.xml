@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+  <ExtensionPackages>
+    <ExtensionPackage 
+      name="SecurityResource"
+      packageVersion="1.0.0"
+      vendor="Gianpiero Di Blasi"
+      description="Extension to manage security"
+      minimumThingWorxVersion="9.2.0"
+      haCompatible="true"
+      dependsOn="">
+      
+      <JarResources>
+        <FileResource description="" file="securityresource.jar" type="JAR"/>
+      </JarResources>
+    </ExtensionPackage>
+  </ExtensionPackages>
+  
+  <Resources>
+    <Resource aspect.isCreatable="false" aspect.isEditableExtensionObject="false" className="com.thingworx.extension.custom.security.SecurityResource" description="" name="SecurityResource"/>
+  </Resources>
+</Entities>
